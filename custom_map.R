@@ -7,7 +7,7 @@ geographyConfig = list(
 dataUrl="https://raw.github.com/Koalha/tryermap/master/kunnat2.topojson"
 ),
 
-   scope = "id",
+   scope = "Kunnatwgs",
 setProjection = '#! function( element, options ) {
    var projection, path;
    projection = d3.geo.transverseMercator()
