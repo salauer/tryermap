@@ -1,10 +1,11 @@
-library(rMaps)
+# library(rMaps)
+# setwd("C:/users/konsta/desktop/tryermap")
 
 maps = Datamaps$new()
 
 maps$set(
 geographyConfig = list(
-dataUrl="https://raw.github.com/Koalha/tryermap/master/kunnat2.topojson"
+dataUrl="http://raw.github.com/Koalha/tryermap/master/kunnat2.topojson"
 ),
 
    scope = "Kunnatwgs",
