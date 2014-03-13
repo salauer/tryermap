@@ -1,0 +1,360 @@
+"Kunta-
+numero
+Kommun-
+nummer"	Kunta	Kommun	"Maata
+Land
+km2"	"Makeaa vettä
+Sötvatten
+km2"	"Merivettä
+Havsvatten
+km2"	"Yhteensä
+Totalt
+km2"					
+20	Akaa	Akaa	293.14	21.24	0	314.38					
+5	Alajärvi	Alajärvi	1008.74	48	0	1056.74					
+9	Alavieska	Alavieska	251.36	24108	0	253.02					
+10	Alavus	Alavus	1088.16	64.23	0	1152.39					
+16	Asikkala	Asikkala	563.38	192.17	0	755.55					
+18	Askola	Askola	212.41	22767	0	218.03					
+19	Aura	Aura	95	0.58	0	95.58					
+35	Brändö	Brändö	107.88	0.38	1534.8	1643.06					
+43	Eckerö	Eckerö	107.65	17168	643.47	752.59					
+46	Enonkoski	Enonkoski	305.82	113.38	0	419.2					
+47	Enontekiö	Enontekis	7945.49	445.86	0	8391.35					
+49	Espoo	Esbo	312.2	18	197.82	528.02					
+50	Eura	Eura	578.77	51.43	0	630.2					
+51	Eurajoki	Euraåminne	345.39	41885	294.49	643.78					
+52	Evijärvi	Evijärvi	354.07	36.63	0	390.7					
+60	Finström	Finström	123.23	34486	42.32	172.49					
+61	Forssa	Forssa	248.78	22737	0	253.4					
+62	Föglö	Föglö	134.77	0.31	1733.9	1868.98					
+65	Geta	Geta	84.35	31444	519.27	606.48					
+69	Haapajärvi	Haapajärvi	765.66	23.44	0	789.1					
+71	Haapavesi	Haapavesi	1049.77	36.34	0	1086.11					
+72	Hailuoto	Karlö	200.56	41821	880.44	1082.7					
+74	Halsua	Halsua	412.71	15.63	0	428.34					
+75	Hamina	Fredrikshamn	609.51	23.17	522.44	1155.12					
+76	Hammarland	Hammarland	138.21	34700	1082.89	1223.05					
+77	Hankasalmi	Hankasalmi	571.73	116.03	0	687.76					
+78	Hanko	Hangö	116.89	41731	681.13	800.06					
+79	Harjavalta	Harjavalta	123.46	46844	0	127.74					
+81	Hartola	Hartola	542.95	132.43	0	675.38					
+82	Hattula	Hattula	357.81	69.58	0	427.39					
+86	Hausjärvi	Hausjärvi	389.31	17411	0	398.78					
+111	Heinola	Heinola	676.09	163.2	0	839.29					
+90	Heinävesi	Heinävesi	1030.28	289.29	0	1319.57					
+91	Helsinki	Helsingfors	213.75	0.86	500.87	715.48					
+97	Hirvensalmi	Hirvensalmi	465.38	281.21	0	746.59					
+98	Hollola	Hollola	463.16	68.68	0	531.84					
+99	Honkajoki	Honkajoki	331.36	28126	0	333.13					
+102	Huittinen	Huittinen 	532.62	35582	0	539.59					
+103	Humppila	Humppila	147.94	0.65	0	148.59					
+105	Hyrynsalmi	Hyrynsalmi	1421.05	100.32	0	1521.37					
+106	Hyvinkää	Hyvinge	322.62	14.15	0	336.77					
+283	Hämeenkoski	Hämeenkoski	187.73	32690	0	195.62					
+108	Hämeenkyrö	Tavastkyro	463.77	41.34	0	505.11					
+109	Hämeenlinna	Tavastehus	1785.21	246.33	0	2031.54					
+139	Ii	Ii	1552.66	50.13	1206.45	2809.24					
+140	Iisalmi	Idensalmi	762.97	109.21	0	872.18					
+142	Iitti	Iitti	589.8	97.28	0	687.08					
+143	Ikaalinen	Ikalis	750.3	93.15	0	843.45					
+145	Ilmajoki	Ilmajoki	576.79	41884	0	579.69					
+146	Ilomantsi	Ilomants	2763.57	409.13	0	3172.7					
+153	Imatra	Imatra	155.01	36.27	0	191.28					
+148	Inari	Enare	15053.04	2280.5	0	17333.54					
+149	Inkoo	Ingå	349.89	41951	596.03	954.03					
+151	Isojoki	Storå	642.38	41764	0	647.43					
+152	Isokyrö	Storkyro	354.19	28887	0	356.98					
+164	Jalasjärvi	Jalasjärvi	818.7	25508	0	830.39					
+165	Janakkala	Janakkala	547.44	38.63	0	586.07					
+167	Joensuu	Joensuu	2381.65	369.41	0	2751.06					
+169	Jokioinen	Jockis	180.43	18994	0	181.95					
+170	Jomala	Jomala	142.54	0.82	543.6	686.96					
+171	Joroinen	Jorois	575.19	136.56	0	711.75					
+172	Joutsa	Joutsa	867.16	199.26	0	1066.42					
+174	Juankoski	Juankoski	465.32	120.98	0	586.3					
+176	Juuka	Juuka	1501.76	344.8	0	1846.56					
+177	Juupajoki	Juupajoki	258.5	16.45	0	274.95					
+178	Juva	Juva	1163.03	182.66	0	1345.69					
+179	Jyväskylä	Jyväskylä	1171	295.33	0	1466.33					
+181	Jämijärvi	Jämijärvi	214.35	36404	0	224.34					
+182	Jämsä	Jämsä	1571.32	252.59	0	1823.91					
+186	Järvenpää	Träskända	37.55	14277	0	39.94					
+202	Kaarina	S:t Karins	150.35	1	28.15	179.5					
+204	Kaavi	Kaavi	674	115.58	0	789.58					
+205	Kajaani	Kajana	1835.09	428.9	0	2263.99					
+208	Kalajoki	Kalajoki	922.18	43282	1461.97	2391.33					
+211	Kangasala	Kangasala	658.01	212.84	0	870.85					
+213	Kangasniemi	Kangasniemi	1068.84	257.88	0	1326.72					
+214	Kankaanpää	Kankaanpää	689.42	15.32	0	704.74					
+216	Kannonkoski	Kannonkoski	444.72	104.88	0	549.6					
+217	Kannus	Kannus	468.24	15008	0	470.65					
+218	Karijoki	Bötom	185.76	0.78	0	186.54					
+224	Karkkila	Högfors	242.36	35034	0	255.31					
+226	Karstula	Karstula	887.26	76.21	0	963.47					
+230	Karvia	Karvia	502	17.89	0	519.89					
+231	Kaskinen	Kaskö	23285	0.15	164.58	175.36					
+232	Kauhajoki	Kauhajoki	1299.08	16.46	0	1315.54					
+233	Kauhava	Kauhava	1313.69	14.63	0	1328.32					
+235	Kauniainen	Grankulla	32629	0.11	0	6					
+236	Kaustinen	Kaustby	354.03	41889	0	361.12					
+239	Keitele	Keitele	481.78	96.54	0	578.32					
+240	Kemi	Kemi	95.41	14062	644.72	747.51					
+320	Kemijärvi	Kemijärvi	3504.97	425.94	0	3930.91					
+241	Keminmaa	Keminmaa	626.3	20.92	0.01	647.23					
+322	Kemiönsaari	Kimitoön	686.93	41709	2103	2800.96					
+244	Kempele	Kempele	110.11	0.21	0.03	110.35					
+245	Kerava	Kervo	30.62	0.17	0	30.79					
+249	Keuruu	Keuruu	1258.03	172.55	0	1430.58					
+250	Kihniö	Kihniö	357.1	33.4	0	390.5					
+256	Kinnula	Kinnula	460.24	35.48	0	495.72					
+257	Kirkkonummi	Kyrkslätt	366.15	27.39	623.47	1017.01					
+260	Kitee	Kitee	1253.59	470.81	0	1724.4					
+261	Kittilä	Kittilä	8094.33	168.61	0	8262.94					
+263	Kiuruvesi	Kiuruvesi	1328.14	94.76	0	1422.9					
+265	Kivijärvi	Kivijärvi	483.95	115.92	0	599.87					
+271	Kokemäki	Kumo	481.22	50.04	0	531.26					
+272	Kokkola	Karleby	1444.19	41.73	1244.88	2730.8					
+273	Kolari	Kolari	2558.81	58.96	0	2617.77					
+275	Konnevesi	Konnevesi	512.97	167.89	0	680.86					
+276	Kontiolahti	Kontiolahti	799.68	230.14	0	1029.82					
+280	Korsnäs	Korsnäs	235.78	41885	1185.03	1424.71					
+284	Koski Tl	Koski Tl	191.46	0.96	0	192.42					
+285	Kotka	Kotka	271.62	27881	672.4	949.78					
+286	Kouvola	Kouvola	2558.37	324.93	0	2883.3					
+287	Kristiinankaupunki	Kristinestad	682.99	14.51	981.48	1678.98					
+288	Kruunupyy	Kronoby	712.36	39.37	0.92	752.65					
+290	Kuhmo	Kuhmo	4806.69	650.08	0	5456.77					
+291	Kuhmoinen	Kuhmoinen	660.96	275.72	0	936.68					
+295	Kumlinge	Kumlinge	99.23	0.5	766.15	865.88					
+297	Kuopio	Kuopio	2309.16	855.79	0	3164.95					
+300	Kuortane	Kuortane	462.17	22.72	0	484.89					
+301	Kurikka	Kurikka	905.62	29768	0	913.43					
+304	Kustavi	Gustavs	165.83	32143	602.23	769.94					
+305	Kuusamo	Kuusamo	4977.86	831.14	0	5809					
+312	Kyyjärvi	Kyyjärvi	448.22	41750	0	469.62					
+316	Kärkölä	Kärkölä	256.47	30713	0	259.31					
+317	Kärsämäki	Kärsämäki	695.94	35156	0	700.9					
+318	Kökar	Kökar	63.5500000000002	0.39	2101.07	2165.01					
+319	Köyliö	Kjulo	246.06	13.21	0	259.27					
+398	Lahti	Lahtis	135.05	19.53	0	154.58					
+399	Laihia	Laihela	504.24	41730	0	508.38					
+400	Laitila	Laitila	531.65	13.68	0	545.33					
+407	Lapinjärvi	Lappträsk	329.87	16681	0	339.32					
+402	Lapinlahti	Lapinlahti	1096.51	148.61	0	1245.12					
+403	Lappajärvi	Lappajärvi	420.89	102.84	0	523.73					
+405	Lappeenranta 	Villmanstrand	1433.35	290.2	0	1723.55					
+408	Lapua	Lappo	737.15	13.68	0	750.83					
+410	Laukaa	Laukaa	648.54	177.08	0	825.62					
+413	Lavia	Lavia	321.12	36.62	0	357.74					
+416	Lemi	Lemi	217.77	44.71	0	262.48					
+417	Lemland	Lemland	113.08	0.59	851.67	965.34					
+418	Lempäälä	Lempäälä	269.52	37.54	0	307.06					
+420	Leppävirta	Leppävirta	1136.03	383.62	0	1519.65					
+421	Lestijärvi	Lestijärvi	480.69	78.37	0	559.06					
+422	Lieksa	Lieksa	3418.35	649.25	0	4067.6					
+423	Lieto	Lundo	198.5	24473	0	200.17					
+425	Liminka	Limingo	637.16	19845	34912	651.65					
+426	Liperi	Liperi	726.9	434.33	0	1161.23					
+444	Lohja	Lojo	939.14	170.59	0	1109.73					
+430	Loimaa	Loimaa	848.1	30376	0	851.93					
+433	Loppi	Loppi	597.6	58.38	0	655.98					
+434	Loviisa	Lovisa	819.78	25.81	905.94	1751.53					
+435	Luhanka	Luhanka	214.53	98.72	0	313.25					
+436	Lumijoki	Lumijoki	213.19	0.27	76.83	290.29					
+438	Lumparland	Lumparland	36.25	0.04	50.75	87.04					
+440	Luoto	Larsmo	142.34	34.07	676.99	853.4					
+441	Luumäki	Luumäki	750.08	109.76	0	859.84					
+442	Luvia	Luvia	169.07	17199	689.66	861.2					
+475	Maalahti	Malax	521.31	41947	1429.52	1954.94					
+476	Maaninka	Maaninka	466.51	108.62	0	575.13					
+478	Maarianhamina	Mariehamn	41862	0	34912	20.75					
+480	Marttila	Marttila	195.28	0.71	0	195.99					
+481	Masku	Masku	174.9	44927	28	204.13					
+483	Merijärvi	Merijärvi	229.83	41852	0	231.63					
+484	Merikarvia	Sastmola	446.03	22737	795.6	1246.25					
+489	Miehikkälä	Miehikkälä	422.23	41991	0	440.35					
+491	Mikkeli	S:t Michel	2549.07	680.49	0	3229.56					
+494	Muhos	Muhos	783.75	13.63	0	797.38					
+495	Multia	Multia	733.24	32.36	0	765.6					
+498	Muonio	Muonio	1903.87	133.93	0	2037.8					
+499	Mustasaari	Korsholm	848.72	17.54	2312.35	3178.61					
+500	Muurame	Muurame	144.06	49.99	0	194.05					
+503	Mynämäki	Mynämäki	519.77	41792	13.72	536.09					
+504	Myrskylä	Mörskom	200.37	35916	0	206.35					
+505	Mäntsälä	Mäntsälä	580.83	15.27	0	596.1					
+508	Mänttä-Vilppula	Mänttä-Vilppula	534.87	122.22	0	657.09					
+507	Mäntyharju	Mäntyharju	981.78	229.21	0	1210.99					
+529	Naantali	Nådendal	311.47	41824	372.43	687.97					
+531	Nakkila	Nakkila	182.91	35431	0	184.88					
+532	Nastola	Nastola	324.18	38.68	0	362.86					
+535	Nivala	Nivala	527.95	33451	0	536.86					
+536	Nokia	Nokia	288.16	59.59	0	347.75					
+538	Nousiainen	Nousis	198.81	0.62	0	199.43					
+541	Nurmes	Nurmes	1601.08	253.71	0	1854.79					
+543	Nurmijärvi	Nurmijärvi	361.86	41734	0	367.26					
+545	Närpiö	Närpes	977.51	33786	1348.72	2334.15					
+560	Orimattila	Orimattila	785.35	28.86	0	814.21					
+561	Oripää	Oripää	117.61	0.11	0	117.72					
+562	Orivesi	Orivesi	799.57	160.51	0	960.08					
+563	Oulainen	Oulainen	587.75	28734	0	597.53					
+564	Oulu	Uleåborg	3031	82.04	767.58	3880.62					
+309	Outokumpu	Outokumpu	445.82	138.23	0	584.05					
+576	Padasjoki	Padasjoki	523.18	206.69	0	729.87					
+577	Paimio	Pemar	238.36	24473	44958	242.26					
+578	Paltamo	Paltamo	918.57	220.56	0	1139.13					
+445	Parainen	Pargas	882.13	14427	4658.69	5548.21					
+580	Parikkala	Parikkala	592.92	167.8	0	760.72					
+581	Parkano	Parkano	852.06	57.61	0	909.67					
+599	Pedersören kunta	Pedersöre	794.28	31.77	0	826.05					
+583	Pelkosenniemi	Pelkosenniemi	1836.17	45.4	0	1881.57					
+854	Pello	Pello	1737.56	126.12	0	1863.68					
+584	Perho	Perho	747.92	27.27	0	775.19					
+588	Pertunmaa	Pertunmaa	374.49	79.7	0	454.19					
+592	Petäjävesi	Petäjävesi	456.39	39.02	0	495.41					
+593	Pieksämäki	Pieksämäki	1568.64	267.6	0	1836.24					
+595	Pielavesi	Pielavesi	1153.23	253.28	0	1406.51					
+598	Pietarsaari	Jakobstad	88.41	15401	304.52	396.35					
+601	Pihtipudas	Pihtipudas	1074.77	172.7	0	1247.47					
+604	Pirkkala	Birkala	81.39	22.65	0	104.04					
+607	Polvijärvi	Polvijärvi	804.15	154.18	0	958.33					
+608	Pomarkku	Påmark	301.08	30.95	0	332.03					
+609	Pori	Björneborg	834.29	25.31	844.46	1704.06					
+611	Pornainen	Borgnäs	146.5	21610	0	150.09					
+638	Porvoo	Borgå	654.51	41680	1475.1	2139.81					
+614	Posio	Posio	3039.16	505.65	0	3544.81					
+615	Pudasjärvi	Pudasjärvi	5637.52	229.7	0	5867.22					
+616	Pukkila	Pukkila	145.04	0.9	0	145.94					
+619	Punkalaidun	Punkalaidun	361.08	34366	0	364.02					
+620	Puolanka	Puolanka	2461.35	137.36	0	2598.71					
+623	Puumala	Puumala	794.52	443.22	0	1237.74					
+624	Pyhtää	Pyttis	324.72	24412	444.58	780.96					
+625	Pyhäjoki	Pyhäjoki	542.33	26451	816.26	1365.31					
+626	Pyhäjärvi	Pyhäjärvi	1311.33	148.15	0	1459.48					
+630	Pyhäntä	Pyhäntä	810.73	36.75	0	847.48					
+631	Pyhäranta	Pyhäranta	143.27	35521	143.51	291.75					
+635	Pälkäne	Pälkäne	560.48	177.67	0	738.15					
+636	Pöytyä	Pöytyä	750.05	23.64	0	773.69					
+678	Raahe	Brahestad	1014.14	41711	861.5	1888.94					
+710	Raasepori	Raseborg	1147.99	67.36	1138.84	2354.19					
+680	Raisio	Reso	48.76	0.6	0.7	50.06					
+681	Rantasalmi	Rantasalmi	559.16	366.01	0	925.17					
+683	Ranua	Ranua	3453.71	241.09	0	3694.8					
+684	Rauma	Raumo	495.6	13.87	600.65	1110.12					
+686	Rautalampi	Rautalampi	538.98	222.99	0	761.97					
+687	Rautavaara	Rautavaara	1150.93	84.3	0	1235.23					
+689	Rautjärvi	Rautjärvi	351.64	50.25	0	401.89					
+691	Reisjärvi	Reisjärvi	474.42	28.74	0	503.16					
+694	Riihimäki	Riihimäki	121.03	19450	0	125.56					
+697	Ristijärvi	Ristijärvi	835.62	62.31	0	897.93					
+698	Rovaniemi	Rovaniemi	7582.06	434.78	0	8016.84					
+700	Ruokolahti	Ruokolahti	943.43	276.42	0	1219.85					
+702	Ruovesi	Ruovesi	776.76	173.38	0	950.14					
+704	Rusko	Rusko	127.12	0.78	0	127.9					
+707	Rääkkylä	Rääkkylä	427.67	272.01	0	699.68					
+729	Saarijärvi	Saarijärvi	1251.88	170.85	0	1422.73					
+732	Salla	Salla	5729.85	143.23	0	5873.08					
+734	Salo	Salo	1986.52	75.12	106.67	2168.31					
+736	Saltvik	Saltvik	151.93	36312	1007.62	1166.54					
+790	Sastamala	Sastamala	1429.23	102.65	0	1531.88					
+738	Sauvo	Sagu	252.47	47119	45.92	299.68					
+739	Savitaipale	Savitaipale	539.74	150.82	0	690.56					
+740	Savonlinna	Nyslott	2239.5	1358.21	0	3597.71					
+742	Savukoski	Savukoski	6438.33	57.62	0	6495.95					
+743	Seinäjoki	Seinäjoki	1431.64	37.59	0	1469.23					
+746	Sievi	Sievi	787.33	13.55	0	800.88					
+747	Siikainen	Siikainen	463.19	28.15	0	491.34					
+748	Siikajoki	Siikajoki	1052.3	34182	592.71	1653.94					
+791	Siikalatva	Siikalatva	2171.86	57.37	0	2229.23					
+749	Siilinjärvi	Siilinjärvi	400.96	106.85	0	507.81					
+751	Simo	Simo	1446.81	41840	619.51	2086.39					
+753	Sipoo	Sibbo	339.62	3	355.98	698.6					
+755	Siuntio	Sjundeå	241.08	32356	16.15	266.11					
+758	Sodankylä	Sodankylä	11693.35	722.13	0	12415.48					
+759	Soini	Soini	551.95	22.28	0	574.23					
+761	Somero	Somero	667.78	41911	0	697.68					
+762	Sonkajärvi	Sonkajärvi	1465.85	110.9	0	1576.75					
+765	Sotkamo	Sotkamo	2649.16	302.72	0	2951.88					
+766	Sottunga	Sottunga	41787	0.02	314.37	342.44					
+768	Sulkava	Sulkava	584.69	184.52	0	769.21					
+771	Sund	Sund	108.12	27454	72.44	184.31					
+777	Suomussalmi	Suomussalmi	5270.17	587.44	0	5857.61					
+778	Suonenjoki	Suonenjoki	713.55	148.79	0	862.34					
+781	Sysmä	Sysmä	666.91	269.27	0	936.18					
+783	Säkylä	Säkylä	160.59	107.85	0	268.44					
+831	Taipalsaari	Taipalsaari	345.13	416.81	0	761.94					
+832	Taivalkoski	Taivalkoski	2438.03	212.64	0	2650.67					
+833	Taivassalo	Tövsala	140.32	24838	75.72	217.72					
+834	Tammela	Tammela	640.39	74.72	0	715.11					
+837	Tampere	Tammerfors	525.01	164.58	0	689.59					
+838	Tarvasjoki	Tarvasjoki	101.96	0.44	0	102.4					
+844	Tervo	Tervo	347.73	146.57	0	494.3					
+845	Tervola	Tervola	1559.72	32.32	0	1592.04					
+846	Teuva	Östermark	554.7	12785	0	556.05					
+848	Tohmajärvi	Tohmajärvi	837.73	57.62	0	895.35					
+849	Toholampi 	Toholampi 	608.43	16650	0	616.88					
+850	Toivakka	Toivakka	361.43	52.51	0	413.94					
+851	Tornio	Torneå	1187.77	41.08	120	1348.85					
+853	Turku	Åbo	245.66	16862	57.24	306.36					
+857	Tuusniemi	Tuusniemi	543.21	156.22	0	699.43					
+858	Tuusula	Tusby	219.5	34820	0	225.45					
+859	Tyrnävä	Tyrnävä	491.81	41823	0	494.88					
+886	Ulvila	Ulvsby	400.7	21.82	0	422.52					
+887	Urjala	Urjala	475.19	30.19	0	505.38					
+889	Utajärvi	Utajärvi	1671.12	65.59	0	1736.71					
+890	Utsjoki	Utsjoki	5144.49	227.52	0	5372.01					
+892	Uurainen	Uurainen	348.05	24.22	0	372.27					
+893	Uusikaarlepyy	Nykarleby	732.66	19085	938.02	1675.2					
+895	Uusikaupunki	Nystad	502.44	48.95	1381.17	1932.56					
+785	Vaala	Vaala	1302.11	461.84	0	1763.95					
+905	Vaasa	Vasa	364.26	31503	205.78	574.9					
+908	Valkeakoski	Valkeakoski	271.95	100.09	0	372.04					
+911	Valtimo	Valtimo	800.32	37.75	0	838.07					
+92	Vantaa	Vanda	238.37	35431	0	240.34					
+915	Varkaus	Varkaus	385.62	138.88	0	524.5					
+918	Vehmaa	Vehmaa	188.72	41732	35674	202.09					
+921	Vesanto	Vesanto	422.63	147.18	0	569.81					
+922	Vesilahti	Vesilahti	300.92	53.03	0	353.95					
+924	Veteli	Vetil	502.34	18.57	0	520.91					
+925	Vieremä	Vieremä	925.26	48.12	0	973.38					
+927	Vihti	Vichtis	522.04	45.04	0	567.08					
+931	Viitasaari	Viitasaari	1248.48	340.65	0	1589.13					
+934	Vimpeli	Vimpeli	287.33	41.46	0	328.79					
+935	Virolahti	Virolahti	371.95	46478	182.7	558.92					
+936	Virrat 	Virdois	1162.31	136.78	0	1299.09					
+941	Vårdö	Vårdö	101.59	0.4	470.6	572.59					
+946	Vöyri	Vörå	781.98	13028	708.58	1499.91					
+976	Ylitornio	Övertorneå	2028.55	183.83	0	2212.38					
+977	Ylivieska	Ylivieska	568.57	20546	0	573.13					
+980	Ylöjärvi	Ylöjärvi	1115.46	208.63	0	1324.09					
+981	Ypäjä	Ypäjä	182.75	0.5	0	183.25					
+989	Ähtäri	Etseri	804.94	105.01	0	909.95					
+992	Äänekoski	Äänekoski	884.48	253.9	0	1138.38					
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
